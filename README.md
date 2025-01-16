@@ -1,7 +1,3 @@
-Here’s a straightforward README for your project:
-
----
-
 # Real Estate App 🏡
 
 This project is a simple real estate application that allows users to browse, search, and manage property listings. It is designed to provide a user-friendly experience for both buyers and sellers in the real estate market.
@@ -78,7 +74,7 @@ This project is a simple real estate application that allows users to browse, se
 - Add support for payment integration for booking.
 - Implement a favorites feature for users to save properties.
 
----
+
 
 
 
